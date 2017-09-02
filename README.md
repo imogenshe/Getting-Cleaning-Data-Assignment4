@@ -2,6 +2,8 @@
 Assignment 4 in the getting and cleaning data subject, Data Science specialization by Coursera
 Below describes the steps taken in getting the final clean data "summarise.txt". 
 
+**Note: only key codes are displayed for better reading experience.**
+
 ## Step 1 
 Merge the x_train and x_test data together, forming a 100% data.
 
