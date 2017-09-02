@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # :sparkling_heart: Codebook for Variables :sparkling_heart:
 This is a codebook for the assignment 4 in the Getting and Cleaning Data course.
 Enjoy! :pizza: :smile: :fireworks:
